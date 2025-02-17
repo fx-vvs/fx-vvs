@@ -1,46 +1,69 @@
-<h1 align="center">Hello, I am fxv</h1>
-<p align="center">
-  🚀 Beginner developer focused on skill improvement. I started learning Python in 2022 and committed fully in 2023. Now, I'm expanding my expertise to include Node.js and full-stack development.
-</p>
+<h1 align="left">Hello, I am fxv</h1>
 
-<hr />
+###
+
+<p align="left">🚀 Beginner developer focused on skill improvement. I started learning Python in 2022 and committed fully in 2023. Now, I'm expanding my expertise to include Node.js and full-stack development.</p>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h4 align="center">Languages:</h4>
+
+###
 
 <div align="center">
-  <h3>Current Plans</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+</div>
+
+###
+
+<h4 align="center">Frameworks:</h4>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" alt="vuejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="nextjs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" alt="fastapi logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" alt="flask logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+</div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/fx-vvs/fx-vvs/output/snake.svg" alt="Snake animation" />
+
+###
+<div align="center">
+  <h3>Contact</h3>
   <p>
-    1. Building solid projects that are useful for some people.<br>
-    2. Learning and exploring new frameworks & tools.
+    <a href="https://dcbadge.limes.pink/api/shield/1207477290548858890" target="_blank">
+      <img src="https://dcbadge.limes.pink/api/shield/1207477290548858890?compact=True" alt="Discord Badge" />
+    </a>
+  </p>
+  <p>
+    <a href="https://guns.lol/fxv." target="_blank">
+        <img src="https://img.shields.io/badge/guns.lol-black?style=for-the-badge&logo=data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAA9JJREFUeNq9lkmIHFUYxz81oqBRJBgl6kFwOXhSvIiigWh37T01SYMTF0QkihCR2O/Vq56ervdqm+kZlBgmjB70oGJkhFxEL254EBHEgyIumAVCSIaEXLJv0/kelVReF0Nm6an5wUd1UV3v2/7vewVlMLp59A6q831o//hWvA2vB6ghfgjqO2+FlSCuv3cPqQbnG9Wgq5pniA9gJWiaSbWhiePSKZHOK2jVdlfeN2vJi4CUV3pDfH7FWX7Ng0DTghPMGX1g+bN2kucI9jrPGk35XWgFn4Llgrw0fgsuOPlOtT2rOsRgfhx24seZFQXFAKgRvg/LAXPTJ6jO/y04OI/Kp5zz67vd7nXMjuKrz/isZ4YfefWx26EfdmzdcRMz+Rip8h6lE03sHRlMnwQkqI/fTc3w6zxrnR/2a+km6BcU0KNUF3+oAttWac9iWac8p7MaEM8KNxONH1UzT1+eXAP9sGXLhzdiRm1c+KyqbDlwmm6yAZBkaPtdnil2F3tOdDED/TCycewRYojfSKVX3Z4VfRy8ENyWVSapE50fyR0rFWKWSGEpTNenb6BWRLHXp9VFsQqHmBW7gIyhoJghPskdKyar5dnR67AUWoPjD3qG+Ll30fYsM8MpHwcOIP5A+kxDD/YrzwsBBCd2vrnI+S+3D26jt4gmThaynmkOJDogE7j3mRVtx6l2IXeoCI7Z0TQ+uyjvh+24BgvFd9OH5AApZI2DQ3zB3fG1mcKTp4jW/r8nUxlkRYot+I/VomcBwXd+b2Q6mVzgKI2fbmj8TK96+SHfiRxA+Hq+CjPjjWqWNVHLje/hgBH8FXEzXAbvJ2Tw2Ma/YCFQg79bcP5nG4cJIK1a52Gq81/U56oxJ34DCrBa8trldc7JiTi/6Nxwvczu6uQS37WHOuuoGY1gP09d2fek54jNDLPdpe4c1IePAjyZzX3xKyyUph1tzUorLZjP8v9RjR/vvNpZLT9EqMl/UoR7pDmYPAaLgZriyzyASp7pvIa93i0dKlX5NJAtXCx+Pb1Tbrk8AEVwhcrMGZychsyON0I/tNx0IHOMlvXxANF6Tr45v3iwCt8Hg517YTnw7fBtXPAbNpBl05LngRYcy7NWs6/kZRdQJp4Vdq6lA6rzPXKSQlngKN4wV+bqve+kDpQFZreK6uLgXNmTXP3Rt1AmzBBp0bm6beUhNPx8fB+URcuO7lcnZjEQgkFQK9oEZUKN8Cul78U5cJg6nXVQJi1nVMudK7OAmuIz303XQNnI080zxN/Kp9fMcC12YSVhthjydL7P08Nd3J1Yu9R1LgFLF3oZUAMlkQAAAABJRU5ErkJggg==" />
+    </a>
   </p>
 </div>
 
 <hr />
 
-<div align="center">
-  <h3>Languages:</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" /></a>
-  </p>
-</div>
-
-<div align="center">
-  <h3>Frameworks:</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" /></a>
-  </p>
-</div>
-
-<hr />
-
-<div align="center">
-  <h3>📱💬 Socials</h3>
-  <p>
-    <a href="https://github.com/fx-vvs"><img src="https://img.shields.io/badge/GitHub-000?logo=github" /></a>
-    <a href="https://x.com/fxv_dev"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" /></a>
-  </p>
-</div>
